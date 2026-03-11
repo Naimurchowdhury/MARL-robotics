@@ -1,4 +1,4 @@
-# Mukti Production Floor RL
+# Multi Production Floor RL
 
 This project simulates a Mukti warehouse robot on a production floor. The robot collects products from inbound stations and dispatches them to outbound bays while avoiding obstacles and managing battery constraints.
 
