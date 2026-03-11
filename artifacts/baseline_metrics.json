@@ -1,0 +1,7 @@
+{
+  "mean_train_reward_last_200": 42.297200000000075,
+  "best_train_reward": 89.98000000000012,
+  "eval_mean_reward": 34.0965000000001,
+  "eval_mean_deliveries": 2.8,
+  "episodes": 5000
+}
